@@ -23,7 +23,14 @@ db_compute.AthenaConnection(
   compress = FALSE
 )
 
-sql_query_save.AthenaConnection(con, sql, name, temporary = TRUE, with, ...)
+sql_query_save.AthenaConnection(
+  con,
+  sql,
+  name,
+  temporary = TRUE,
+  with = NULL,
+  ...
+)
 }
 \arguments{
 \item{con}{A \code{\link{dbConnect}} object, as returned by \code{dbConnect()}}

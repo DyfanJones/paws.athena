@@ -27,6 +27,7 @@ without needing hard code any credentials.
 \seealso{
 Useful links:
 \itemize{
+  \item \url{https://dyfanjones.github.io/noctua/}
   \item \url{https://github.com/DyfanJones/noctua}
   \item Report bugs at \url{https://github.com/DyfanJones/noctua/issues}
 }
